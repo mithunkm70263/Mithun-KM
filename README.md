@@ -26,9 +26,7 @@ Currently, I’m sharpening my skills in AI/ML**.
 
 ## 📈 Current Focus
 ✔ Building small Python projects to strengthen fundamentals  
-✔ Exploring past GSoC orgs (2020–2024) to shortlist best-fit communities  
-✔ Contributing to beginner-friendly issues and pull requests  
-✔ Documenting my journey for **transparency & learning**  
+✔ Aspiring Software Engenieer
 
 ---
 
