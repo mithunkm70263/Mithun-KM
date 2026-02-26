@@ -1,5 +1,3 @@
-# Mithun-KM
-This repo contains my GitHub profile README
 # Hi, I'm Mithun 👋  
 
 💻 **Python Developer | Open Source Contributor | GSoC 2026 Aspirant**  
@@ -26,7 +24,7 @@ Currently, I’m sharpening my skills in AI/ML**.
 
 ## 📈 Current Focus
 ✔ Building small Python projects to strengthen fundamentals  
-✔ Aspiring Software Engenieer
+✔ Aspiring Machine learning Engenieer
 
 ---
 
